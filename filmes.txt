@@ -2,4 +2,5 @@
 "Diga 'ola' para meu pequeno amigo!" (Socarface)
 "Hasta la vista, baby."(Exterminador do futuro 2)
 "Criação de um novo branch"
-"Alterar o arquivo e enviar para o repositorio do github usando o vscode, melhorar as escrita do paragrafo"
+"Alterar o arquivo e enviar para o repositorio do github usando o vscode, agora foi alterado o paragrafo pelo github edite."
+
