@@ -1,6 +1,7 @@
 "Não há certezas, apenas oportumidades." (V de Vingança)
 "Diga 'ola' para meu pequeno amigo!" (Socarface)
 "Hasta la vista, baby."(Exterminador do futuro 2)
-"Criação de um novo branch"
+"Criação de um novo branch" 
 "Alterar o arquivo e enviar para o repositorio do github usando o vscode, texto não podia ser apagado."
+ 
  
